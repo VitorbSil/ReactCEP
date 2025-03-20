@@ -35,7 +35,7 @@ async function handleSearch(){
     <div className="container">
       <h1 className='title'>Projeto para buscar CEP</h1>     
         <p>
-         <Link to="/Cadastro.js">Ir para a página de Teste</Link>
+         <Link to="/cadastro">Ir para a página de Teste</Link>
         </p>
       
       <div className="containerInput">

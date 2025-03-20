@@ -52,6 +52,12 @@ const Cadastro = () => {
         <div className="signup-link">
         </div>
       </form>
+
+      <p>
+      <Link to="/">Retornar</Link>
+      </p>
+
+
     </div>
   );
 };

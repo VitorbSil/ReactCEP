@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Cadastro from './Cadastro';
 
 
 
@@ -14,6 +15,8 @@ root.render(
   <Router>
   <Routes>
     <Route path="/" element={<App />} />
+    <Route path="/cadastro" element={<Cadastro />} />
+    
   </Routes>
 </Router>
   
