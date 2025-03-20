@@ -33,13 +33,11 @@ async function handleSearch(){
   return (
     
     <div className="container">
-      <h1 className='title'>Projeto para buscar CEP</h1>
-
-      <div className='linkcadastro'>        
+      <h1 className='title'>Projeto para buscar CEP</h1>     
         <p>
          <Link to="/Cadastro.js">Ir para a página de Teste</Link>
         </p>
-      </div>
+      
       <div className="containerInput">
         <input 
         type="text"

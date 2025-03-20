@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaUser, FaLock } from "react-icons/fa";
-import "./Login.css";
+import "./styles.css";
 import { Link } from "react-router-dom";//essa linha está vinculada a linha 55
 
 const Cadastro = () => {

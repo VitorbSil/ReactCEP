@@ -7,14 +7,6 @@
         background: linear-gradient(#121212, #212b46);
 }
 
-.container p{
-  color: #fff;
-  text-decoration: none;
-}
-
-.container p:hover{
-    text-decoration: underline;
-}
 
 .title{
     font-size: 85px;
